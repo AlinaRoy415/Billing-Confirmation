@@ -4,7 +4,7 @@ Your Norton 360 service has been renewed successfully. A payment of 476.49 USD h
 
 Order Information:
 Service: Norton 360
-Amount: 476.49 USD
+Amount: 496.49 USD
 Device Limit: 1 PC
 Date: April 16, 2026
 Payment Mode: Automatic Debit
